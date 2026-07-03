@@ -13,7 +13,7 @@ The goal of this project is to simulate real-world vehicle depreciation and cust
 - Price change per added part/tech
 - Price change for modified vehicles
 
-## 📊 Preview
+## Preview
 [Calculation example](Images/img-5.png)
 
 ## How it works
